@@ -8,12 +8,9 @@
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ygthnkrsln&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ygthnkrsln&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ygthnkrsln&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<center>![](https://github-readme-stats.vercel.app/api?username=ygthnkrsln&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/><center>
+<center>![](https://github-readme-streak-stats.herokuapp.com/?user=ygthnkrsln&theme=vue-dark&hide_border=false)<br/><center>
+<center>![](https://github-readme-stats.vercel.app/api/top-langs/?username=ygthnkrsln&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<center>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ygthnkrsln&icon=0&color=3)](https://visitcount.itsvg.in)
