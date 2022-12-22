@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ygthnkrsln<br>👀 I’m interested in games and software.<br>🌱 I’m currently learning JAVA and Unity.<br>📫 How to reach me:<br>Instagram: https://www.instagram.com/ygthnkrsln/<br>Twitter: https://twitter.com/forbequeM<br>Discord: bequ3M#0172
+👋 Hi, I’m @ygthnkrsln<br>👀 I’m interested in games and software.<br>🌱 I’m currently learning JAVA and Unity.<br>
 
 
 ## 🌐 Socials:
