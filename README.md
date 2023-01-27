@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ygthnkrsln<br>👀 I’m interested in games and software.<br>🌱 I’m currently learning JAVA and Unity.<br>
+👋 Hi, I’m @ygthnkrsln<br>👀 I’m interested in games and software.<br>
 
 
 ## 🌐 Socials:
